@@ -1,0 +1,20 @@
+.card-text {
+    color: #000;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .custom-card {
+    flex: 1 1 300px; /* Ajusta para cards de tamanho flexível */
+    max-width: 300px; /* Limita o tamanho máximo */
+    min-height: 400px; /* Define uma altura mínima */
+    display: flex;
+    flex-direction: column;
+  }
+  

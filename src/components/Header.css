@@ -1,0 +1,20 @@
+.bg-body-tertiary {
+  background-color:rgb(7, 7, 7) /* Cor de fundo desejada */
+  }
+  
+ 
+  .bg-body-tertiary .nav-link {
+    color: rgba(41, 38, 38, 0.628); /* Cor do texto */
+  }
+  
+
+
+  .bg-body-tertiary .nav-link:hover {
+    color: #000000; /* Cor do texto ao passar o mouse */
+  }
+  
+  .bg-body-tertiary .pp{
+    color: #000000;
+  }
+
+ 
